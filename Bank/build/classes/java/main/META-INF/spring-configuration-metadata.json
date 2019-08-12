@@ -1,0 +1,27 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "au.com.bank.configuration.Transactions",
+      "name": "transactions",
+      "type": "au.com.bank.configuration.Transactions"
+    },
+    {
+      "sourceType": "au.com.bank.configuration.User",
+      "name": "user",
+      "type": "au.com.bank.configuration.User"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "au.com.bank.configuration.Transactions",
+      "name": "transactions.transaction-list",
+      "type": "java.util.List<au.com.bank.model.TransactionList>"
+    },
+    {
+      "sourceType": "au.com.bank.configuration.User",
+      "name": "user.user-map",
+      "type": "java.util.List<au.com.bank.model.UserMap>"
+    }
+  ]
+}

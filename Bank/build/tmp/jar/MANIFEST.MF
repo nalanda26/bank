@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: com.bank.model
+Implementation-Version: unspecified
+Built-Date: Fri Aug 09 12:50:40 AEST 2019
+Built-By: nalandas
+Implementation-Vendor-Id: au.com.anz
+Build-Jdk: 1.8.0_181
+Main-Class: au.com.anz.BankApplication
+
